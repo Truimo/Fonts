@@ -1,0 +1,1705 @@
+@font-face {
+    font-family: 'tangrui-icon';
+    src: url('fonts/tangrui-icon.eot?79rj30');
+    src: url('fonts/tangrui-icon.eot?79rj30#iefix') format('embedded-opentype'), url('fonts/tangrui-icon.ttf?79rj30') format('truetype'), url('fonts/tangrui-icon.woff?79rj30') format('woff'), url('fonts/tangrui-icon.svg?79rj30#tangrui-icon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="tangrui-"], [class*=" tangrui-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'tangrui-icon' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.tangrui-about:before {
+    content: "\e900";
+}
+
+.tangrui-about-l:before {
+    content: "\e901";
+}
+
+.tangrui-add:before {
+    content: "\e902";
+}
+
+.tangrui-airplane:before {
+    content: "\e903";
+}
+
+.tangrui-airplane-l:before {
+    content: "\e904";
+}
+
+.tangrui-alipay:before {
+    content: "\e905";
+}
+
+.tangrui-analysis:before {
+    content: "\e906";
+}
+
+.tangrui-android:before {
+    content: "\e907";
+}
+
+.tangrui-angle-down-l:before {
+    content: "\e908";
+}
+
+.tangrui-angle-left-l:before {
+    content: "\e909";
+}
+
+.tangrui-angle-right-l:before {
+    content: "\e90a";
+}
+
+.tangrui-angle-up-l:before {
+    content: "\e90b";
+}
+
+.tangrui-apple:before {
+    content: "\e90c";
+}
+
+.tangrui-arrow-down-l:before {
+    content: "\e90d";
+}
+
+.tangrui-arrow-up-l:before {
+    content: "\e90e";
+}
+
+.tangrui-baiduwangpan:before {
+    content: "\e90f";
+}
+
+.tangrui-bar-chart:before {
+    content: "\e910";
+}
+
+.tangrui-bar-chart-l:before {
+    content: "\e911";
+}
+
+.tangrui-battery:before {
+    content: "\e912";
+}
+
+.tangrui-battery-l:before {
+    content: "\e913";
+}
+
+.tangrui-bell:before {
+    content: "\e914";
+}
+
+.tangrui-bell-l:before {
+    content: "\e915";
+}
+
+.tangrui-bevel:before {
+    content: "\e916";
+}
+
+.tangrui-bilibili:before {
+    content: "\e917";
+}
+
+.tangrui-bitcoin:before {
+    content: "\e918";
+}
+
+.tangrui-blackboard:before {
+    content: "\e919";
+}
+
+.tangrui-blackboard-l:before {
+    content: "\e91a";
+}
+
+.tangrui-block:before {
+    content: "\e91b";
+}
+
+.tangrui-block-l:before {
+    content: "\e91c";
+}
+
+.tangrui-bluetooth:before {
+    content: "\e91d";
+}
+
+.tangrui-bluetooth-l:before {
+    content: "\e91e";
+}
+
+.tangrui-board:before {
+    content: "\e91f";
+}
+
+.tangrui-board-l:before {
+    content: "\e920";
+}
+
+.tangrui-book:before {
+    content: "\e921";
+}
+
+.tangrui-book-l:before {
+    content: "\e922";
+}
+
+.tangrui-bookmark:before {
+    content: "\e923";
+}
+
+.tangrui-bookmark-l:before {
+    content: "\e924";
+}
+
+.tangrui-books:before {
+    content: "\e925";
+}
+
+.tangrui-books-l:before {
+    content: "\e926";
+}
+
+.tangrui-bot:before {
+    content: "\e927";
+}
+
+.tangrui-bot-l:before {
+    content: "\e928";
+}
+
+.tangrui-box:before {
+    content: "\e929";
+}
+
+.tangrui-box-l:before {
+    content: "\e92a";
+}
+
+.tangrui-briefcase:before {
+    content: "\e92b";
+}
+
+.tangrui-briefcase-l:before {
+    content: "\e92c";
+}
+
+.tangrui-brush:before {
+    content: "\e92d";
+}
+
+.tangrui-brush-l:before {
+    content: "\e92e";
+}
+
+.tangrui-bug:before {
+    content: "\e92f";
+}
+
+.tangrui-bug-l:before {
+    content: "\e930";
+}
+
+.tangrui-building:before {
+    content: "\e931";
+}
+
+.tangrui-building-l:before {
+    content: "\e932";
+}
+
+.tangrui-buy:before {
+    content: "\e933";
+}
+
+.tangrui-buy-l:before {
+    content: "\e934";
+}
+
+.tangrui-calculator:before {
+    content: "\e935";
+}
+
+.tangrui-calculator-l:before {
+    content: "\e936";
+}
+
+.tangrui-calendar:before {
+    content: "\e937";
+}
+
+.tangrui-calendar-l:before {
+    content: "\e938";
+}
+
+.tangrui-camber:before {
+    content: "\e939";
+}
+
+.tangrui-camber-l:before {
+    content: "\e93a";
+}
+
+.tangrui-camber-o:before {
+    content: "\e93b";
+}
+
+.tangrui-camera:before {
+    content: "\e93c";
+}
+
+.tangrui-camera-l:before {
+    content: "\e93d";
+}
+
+.tangrui-car:before {
+    content: "\e93e";
+}
+
+.tangrui-car-l:before {
+    content: "\e93f";
+}
+
+.tangrui-category-l:before {
+    content: "\e940";
+}
+
+.tangrui-certificate:before {
+    content: "\e941";
+}
+
+.tangrui-certificate-l:before {
+    content: "\e942";
+}
+
+.tangrui-chemistry:before {
+    content: "\e943";
+}
+
+.tangrui-chemistry-l:before {
+    content: "\e944";
+}
+
+.tangrui-choose-list-l:before {
+    content: "\e945";
+}
+
+.tangrui-chrome:before {
+    content: "\e946";
+}
+
+.tangrui-circle:before {
+    content: "\e947";
+}
+
+.tangrui-circle-l:before {
+    content: "\e948";
+}
+
+.tangrui-circle-o:before {
+    content: "\e949";
+}
+
+.tangrui-clip-l:before {
+    content: "\e94a";
+}
+
+.tangrui-clock:before {
+    content: "\e94b";
+}
+
+.tangrui-clock-l:before {
+    content: "\e94c";
+}
+
+.tangrui-close-l:before {
+    content: "\e94d";
+}
+
+.tangrui-clothes:before {
+    content: "\e94e";
+}
+
+.tangrui-clothes-l:before {
+    content: "\e94f";
+}
+
+.tangrui-cloud:before {
+    content: "\e950";
+}
+
+.tangrui-cloud-download-l:before {
+    content: "\e951";
+}
+
+.tangrui-cloud-l:before {
+    content: "\e952";
+}
+
+.tangrui-cloud-upload-l:before {
+    content: "\e953";
+}
+
+.tangrui-code-branch:before {
+    content: "\e954";
+}
+
+.tangrui-code-file:before {
+    content: "\e955";
+}
+
+.tangrui-code-file-l:before {
+    content: "\e956";
+}
+
+.tangrui-code-fork:before {
+    content: "\e957";
+}
+
+.tangrui-code-l:before {
+    content: "\e958";
+}
+
+.tangrui-coin:before {
+    content: "\e959";
+}
+
+.tangrui-coin-l:before {
+    content: "\e95a";
+}
+
+.tangrui-collection:before {
+    content: "\e95b";
+}
+
+.tangrui-come-l:before {
+    content: "\e95c";
+}
+
+.tangrui-command:before {
+    content: "\e95d";
+}
+
+.tangrui-command-l:before {
+    content: "\e95e";
+}
+
+.tangrui-commed2:before {
+    content: "\e95f";
+}
+
+.tangrui-commed2-l:before {
+    content: "\e960";
+}
+
+.tangrui-comment:before {
+    content: "\e961";
+}
+
+.tangrui-comment-l:before {
+    content: "\e962";
+}
+
+.tangrui-computer:before {
+    content: "\e963";
+}
+
+.tangrui-computer-l:before {
+    content: "\e964";
+}
+
+.tangrui-configuration:before {
+    content: "\e965";
+}
+
+.tangrui-configuration-l:before {
+    content: "\e966";
+}
+
+.tangrui-container:before {
+    content: "\e967";
+}
+
+.tangrui-container-l:before {
+    content: "\e968";
+}
+
+.tangrui-control:before {
+    content: "\e969";
+}
+
+.tangrui-control-rank:before {
+    content: "\e96a";
+}
+
+.tangrui-credit-card:before {
+    content: "\e96b";
+}
+
+.tangrui-credit-card-l:before {
+    content: "\e96c";
+}
+
+.tangrui-crown:before {
+    content: "\e96d";
+}
+
+.tangrui-crown-l:before {
+    content: "\e96e";
+}
+
+.tangrui-css3:before {
+    content: "\e96f";
+}
+
+.tangrui-cube:before {
+    content: "\e970";
+}
+
+.tangrui-cube-l:before {
+    content: "\e971";
+}
+
+.tangrui-cup:before {
+    content: "\e972";
+}
+
+.tangrui-cup-l:before {
+    content: "\e973";
+}
+
+.tangrui-dashboard:before {
+    content: "\e974";
+}
+
+.tangrui-dashboard-l:before {
+    content: "\e975";
+}
+
+.tangrui-database:before {
+    content: "\e976";
+}
+
+.tangrui-database-l:before {
+    content: "\e977";
+}
+
+.tangrui-dev-board:before {
+    content: "\e978";
+}
+
+.tangrui-dev-board-l:before {
+    content: "\e979";
+}
+
+.tangrui-d-glasses:before {
+    content: "\e97a";
+}
+
+.tangrui-diamond:before {
+    content: "\e97b";
+}
+
+.tangrui-diamond-l:before {
+    content: "\e97c";
+}
+
+.tangrui-doc-edit:before {
+    content: "\e97d";
+}
+
+.tangrui-doc-edit-l:before {
+    content: "\e97e";
+}
+
+.tangrui-doc-file:before {
+    content: "\e97f";
+}
+
+.tangrui-doc-file-l:before {
+    content: "\e980";
+}
+
+.tangrui-download-l:before {
+    content: "\e981";
+}
+
+.tangrui-dribbble:before {
+    content: "\e982";
+}
+
+.tangrui-dropbox:before {
+    content: "\e983";
+}
+
+.tangrui-earth:before {
+    content: "\e984";
+}
+
+.tangrui-earth-l:before {
+    content: "\e985";
+}
+
+.tangrui-education:before {
+    content: "\e986";
+}
+
+.tangrui-education-l:before {
+    content: "\e987";
+}
+
+.tangrui-eye:before {
+    content: "\e988";
+}
+
+.tangrui-eye-l:before {
+    content: "\e989";
+}
+
+.tangrui-face:before {
+    content: "\e98a";
+}
+
+.tangrui-facebook:before {
+    content: "\e98b";
+}
+
+.tangrui-face-l:before {
+    content: "\e98c";
+}
+
+.tangrui-file:before {
+    content: "\e98d";
+}
+
+.tangrui-file-l:before {
+    content: "\e98e";
+}
+
+.tangrui-film:before {
+    content: "\e98f";
+}
+
+.tangrui-film-l:before {
+    content: "\e990";
+}
+
+.tangrui-fingerprint:before {
+    content: "\e991";
+}
+
+.tangrui-fingerprint-l:before {
+    content: "\e992";
+}
+
+.tangrui-fire-l:before {
+    content: "\e993";
+}
+
+.tangrui-firewall:before {
+    content: "\e994";
+}
+
+.tangrui-firewall-l:before {
+    content: "\e995";
+}
+
+.tangrui-folder:before {
+    content: "\e996";
+}
+
+.tangrui-folder-l:before {
+    content: "\e997";
+}
+
+.tangrui-forum:before {
+    content: "\e998";
+}
+
+.tangrui-forum-l:before {
+    content: "\e999";
+}
+
+.tangrui-game:before {
+    content: "\e99a";
+}
+
+.tangrui-game-l:before {
+    content: "\e99b";
+}
+
+.tangrui-gene:before {
+    content: "\e99c";
+}
+
+.tangrui-gift:before {
+    content: "\e99d";
+}
+
+.tangrui-gift-l:before {
+    content: "\e99e";
+}
+
+.tangrui-github:before {
+    content: "\e99f";
+}
+
+.tangrui-github-logo:before {
+    content: "\e9a0";
+}
+
+.tangrui-Google:before {
+    content: "\e9a1";
+}
+
+.tangrui-greatwall:before {
+    content: "\e9a2";
+}
+
+.tangrui-hacker:before {
+    content: "\e9a3";
+}
+
+.tangrui-hacker-l:before {
+    content: "\e9a4";
+}
+
+.tangrui-hammer:before {
+    content: "\e9a5";
+}
+
+.tangrui-hammer-l:before {
+    content: "\e9a6";
+}
+
+.tangrui-hand-bevel:before {
+    content: "\e9a7";
+}
+
+.tangrui-hand-button:before {
+    content: "\e9a8";
+}
+
+.tangrui-hande-vertical:before {
+    content: "\e9a9";
+}
+
+.tangrui-hand-gather:before {
+    content: "\e9aa";
+}
+
+.tangrui-hand-grasp:before {
+    content: "\e9ab";
+}
+
+.tangrui-hand-horizontal:before {
+    content: "\e9ac";
+}
+
+.tangrui-hand-pointer:before {
+    content: "\e9ad";
+}
+
+.tangrui-hand-slide:before {
+    content: "\e9ae";
+}
+
+.tangrui-hand-stop:before {
+    content: "\e9af";
+}
+
+.tangrui-hand-touch:before {
+    content: "\e9b0";
+}
+
+.tangrui-hdmi:before {
+    content: "\e9b1";
+}
+
+.tangrui-hdmi-l:before {
+    content: "\e9b2";
+}
+
+.tangrui-headset:before {
+    content: "\e9b3";
+}
+
+.tangrui-headset-l:before {
+    content: "\e9b4";
+}
+
+.tangrui-heart:before {
+    content: "\e9b5";
+}
+
+.tangrui-heart-l:before {
+    content: "\e9b6";
+}
+
+.tangrui-home:before {
+    content: "\e9b7";
+}
+
+.tangrui-home-l:before {
+    content: "\e9b8";
+}
+
+.tangrui-html5:before {
+    content: "\e9b9";
+}
+
+.tangrui-image:before {
+    content: "\e9ba";
+}
+
+.tangrui-image-l:before {
+    content: "\e9bb";
+}
+
+.tangrui-inbox:before {
+    content: "\e9bc";
+}
+
+.tangrui-inbox-l:before {
+    content: "\e9bd";
+}
+
+.tangrui-Instagram:before {
+    content: "\e9be";
+}
+
+.tangrui-key:before {
+    content: "\e9bf";
+}
+
+.tangrui-keyboard:before {
+    content: "\e9c0";
+}
+
+.tangrui-keyboard-l:before {
+    content: "\e9c1";
+}
+
+.tangrui-key-l:before {
+    content: "\e9c2";
+}
+
+.tangrui-label-info:before {
+    content: "\e9c3";
+}
+
+.tangrui-label-info-l:before {
+    content: "\e9c4";
+}
+
+.tangrui-laptop:before {
+    content: "\e9c5";
+}
+
+.tangrui-laptop-l:before {
+    content: "\e9c6";
+}
+
+.tangrui-layers:before {
+    content: "\e9c7";
+}
+
+.tangrui-layout-grid:before {
+    content: "\e9c8";
+}
+
+.tangrui-layout-grids:before {
+    content: "\e9c9";
+}
+
+.tangrui-layout-list:before {
+    content: "\e9ca";
+}
+
+.tangrui-light:before {
+    content: "\e9cb";
+}
+
+.tangrui-light-flash-l:before {
+    content: "\e9cc";
+}
+
+.tangrui-light-l:before {
+    content: "\e9cd";
+}
+
+.tangrui-lightning:before {
+    content: "\e9ce";
+}
+
+.tangrui-lightning-l:before {
+    content: "\e9cf";
+}
+
+.tangrui-link-l:before {
+    content: "\e9d0";
+}
+
+.tangrui-linux:before {
+    content: "\e9d1";
+}
+
+.tangrui-list-clipboard:before {
+    content: "\e9d2";
+}
+
+.tangrui-list-clipboard-l:before {
+    content: "\e9d3";
+}
+
+.tangrui-location:before {
+    content: "\e9d4";
+}
+
+.tangrui-location-l:before {
+    content: "\e9d5";
+}
+
+.tangrui-lock:before {
+    content: "\e9d6";
+}
+
+.tangrui-lock-l:before {
+    content: "\e9d7";
+}
+
+.tangrui-map:before {
+    content: "\e9d8";
+}
+
+.tangrui-map-l:before {
+    content: "\e9d9";
+}
+
+.tangrui-medal:before {
+    content: "\e9da";
+}
+
+.tangrui-medal-l:before {
+    content: "\e9db";
+}
+
+.tangrui-menu-l:before {
+    content: "\e9dc";
+}
+
+.tangrui-message:before {
+    content: "\e9dd";
+}
+
+.tangrui-message-l:before {
+    content: "\e9de";
+}
+
+.tangrui-microchip:before {
+    content: "\e9df";
+}
+
+.tangrui-microchip-l:before {
+    content: "\e9e0";
+}
+
+.tangrui-microphone:before {
+    content: "\e9e1";
+}
+
+.tangrui-microphone-l:before {
+    content: "\e9e2";
+}
+
+.tangrui-microsoft:before {
+    content: "\e9e3";
+}
+
+.tangrui-mobile:before {
+    content: "\e9e4";
+}
+
+.tangrui-mobile-l:before {
+    content: "\e9e5";
+}
+
+.tangrui-moments:before {
+    content: "\e9e6";
+}
+
+.tangrui-money:before {
+    content: "\e9e7";
+}
+
+.tangrui-moon:before {
+    content: "\e9e8";
+}
+
+.tangrui-moon-l:before {
+    content: "\e9e9";
+}
+
+.tangrui-more:before {
+    content: "\e9ea";
+}
+
+.tangrui-mouse:before {
+    content: "\e9eb";
+}
+
+.tangrui-mouse-l:before {
+    content: "\e9ec";
+}
+
+.tangrui-music:before {
+    content: "\e9ed";
+}
+
+.tangrui-music-file:before {
+    content: "\e9ee";
+}
+
+.tangrui-music-file-l:before {
+    content: "\e9ef";
+}
+
+.tangrui-music-l:before {
+    content: "\e9f0";
+}
+
+.tangrui-music-note:before {
+    content: "\e9f1";
+}
+
+.tangrui-music-note-l:before {
+    content: "\e9f2";
+}
+
+.tangrui-nail:before {
+    content: "\e9f3";
+}
+
+.tangrui-nail-l:before {
+    content: "\e9f4";
+}
+
+.tangrui-nas:before {
+    content: "\e9f5";
+}
+
+.tangrui-nas-l:before {
+    content: "\e9f6";
+}
+
+.tangrui-network:before {
+    content: "\e9f7";
+}
+
+.tangrui-network-l:before {
+    content: "\e9f8";
+}
+
+.tangrui-new:before {
+    content: "\e9f9";
+}
+
+.tangrui-new-l:before {
+    content: "\e9fa";
+}
+
+.tangrui-newspaper:before {
+    content: "\e9fb";
+}
+
+.tangrui-newspaper-l:before {
+    content: "\e9fc";
+}
+
+.tangrui-operation:before {
+    content: "\e9fd";
+}
+
+.tangrui-operation-l:before {
+    content: "\e9fe";
+}
+
+.tangrui-out-l:before {
+    content: "\e9ff";
+}
+
+.tangrui-pad:before {
+    content: "\ea00";
+}
+
+.tangrui-pad-l:before {
+    content: "\ea01";
+}
+
+.tangrui-paper:before {
+    content: "\ea02";
+}
+
+.tangrui-paper-l:before {
+    content: "\ea03";
+}
+
+.tangrui-paper-plane:before {
+    content: "\ea04";
+}
+
+.tangrui-paper-plane-l:before {
+    content: "\ea05";
+}
+
+.tangrui-pause-l:before {
+    content: "\ea06";
+}
+
+.tangrui-paypal:before {
+    content: "\ea07";
+}
+
+.tangrui-pen:before {
+    content: "\ea08";
+}
+
+.tangrui-pen-write:before {
+    content: "\ea09";
+}
+
+.tangrui-people:before {
+    content: "\ea0a";
+}
+
+.tangrui-phone:before {
+    content: "\ea0b";
+}
+
+.tangrui-phone-l:before {
+    content: "\ea0c";
+}
+
+.tangrui-pinterest:before {
+    content: "\ea0d";
+}
+
+.tangrui-pixel:before {
+    content: "\ea0e";
+}
+
+.tangrui-platform:before {
+    content: "\ea0f";
+}
+
+.tangrui-platform-l:before {
+    content: "\ea10";
+}
+
+.tangrui-play-l:before {
+    content: "\ea11";
+}
+
+.tangrui-plugin:before {
+    content: "\ea12";
+}
+
+.tangrui-pokemon-ball:before {
+    content: "\ea13";
+}
+
+.tangrui-port:before {
+    content: "\ea14";
+}
+
+.tangrui-port-l:before {
+    content: "\ea15";
+}
+
+.tangrui-printer:before {
+    content: "\ea16";
+}
+
+.tangrui-printer-l:before {
+    content: "\ea17";
+}
+
+.tangrui-product:before {
+    content: "\ea18";
+}
+
+.tangrui-program:before {
+    content: "\ea19";
+}
+
+.tangrui-program-framework:before {
+    content: "\ea1a";
+}
+
+.tangrui-program-l:before {
+    content: "\ea1b";
+}
+
+.tangrui-prototype:before {
+    content: "\ea1c";
+}
+
+.tangrui-prototype-l:before {
+    content: "\ea1d";
+}
+
+.tangrui-prototype-select:before {
+    content: "\ea1e";
+}
+
+.tangrui-prototype-select-l:before {
+    content: "\ea1f";
+}
+
+.tangrui-qq:before {
+    content: "\ea20";
+}
+
+.tangrui-qrcode-l:before {
+    content: "\ea21";
+}
+
+.tangrui-quadrotor:before {
+    content: "\ea22";
+}
+
+.tangrui-quote-left:before {
+    content: "\ea23";
+}
+
+.tangrui-quote-right:before {
+    content: "\ea24";
+}
+
+.tangrui-qzone:before {
+    content: "\ea25";
+}
+
+.tangrui-raspberry:before {
+    content: "\ea26";
+}
+
+.tangrui-raspberry-l:before {
+    content: "\ea27";
+}
+
+.tangrui-read:before {
+    content: "\ea28";
+}
+
+.tangrui-read-l:before {
+    content: "\ea29";
+}
+
+.tangrui-red-envelope:before {
+    content: "\ea2a";
+}
+
+.tangrui-renew:before {
+    content: "\ea2b";
+}
+
+.tangrui-right-clipboard:before {
+    content: "\ea2c";
+}
+
+.tangrui-right-clipboard-l:before {
+    content: "\ea2d";
+}
+
+.tangrui-robot:before {
+    content: "\ea2e";
+}
+
+.tangrui-robot2:before {
+    content: "\ea2f";
+}
+
+.tangrui-robot2-l:before {
+    content: "\ea30";
+}
+
+.tangrui-robot-l:before {
+    content: "\ea31";
+}
+
+.tangrui-rocket:before {
+    content: "\ea32";
+}
+
+.tangrui-rocket-l:before {
+    content: "\ea33";
+}
+
+.tangrui-rollerbrush:before {
+    content: "\ea34";
+}
+
+.tangrui-rollerbrush-l:before {
+    content: "\ea35";
+}
+
+.tangrui-router:before {
+    content: "\ea36";
+}
+
+.tangrui-router-l:before {
+    content: "\ea37";
+}
+
+.tangrui-rss:before {
+    content: "\ea38";
+}
+
+.tangrui-ruler:before {
+    content: "\ea39";
+}
+
+.tangrui-ruler-l:before {
+    content: "\ea3a";
+}
+
+.tangrui-save:before {
+    content: "\ea3b";
+}
+
+.tangrui-save-l:before {
+    content: "\ea3c";
+}
+
+.tangrui-scan-l:before {
+    content: "\ea3d";
+}
+
+.tangrui-scissors:before {
+    content: "\ea3e";
+}
+
+.tangrui-sdcard:before {
+    content: "\ea3f";
+}
+
+.tangrui-sdcard-l:before {
+    content: "\ea40";
+}
+
+.tangrui-search-l:before {
+    content: "\ea41";
+}
+
+.tangrui-server:before {
+    content: "\ea42";
+}
+
+.tangrui-server-l:before {
+    content: "\ea43";
+}
+
+.tangrui-servers:before {
+    content: "\ea44";
+}
+
+.tangrui-setting:before {
+    content: "\ea45";
+}
+
+.tangrui-setting-l:before {
+    content: "\ea46";
+}
+
+.tangrui-share:before {
+    content: "\ea47";
+}
+
+.tangrui-shield:before {
+    content: "\ea48";
+}
+
+.tangrui-shield-l:before {
+    content: "\ea49";
+}
+
+.tangrui-shop:before {
+    content: "\ea4a";
+}
+
+.tangrui-shop-l:before {
+    content: "\ea4b";
+}
+
+.tangrui-shopping-cart:before {
+    content: "\ea4c";
+}
+
+.tangrui-shopping-cart-l:before {
+    content: "\ea4d";
+}
+
+.tangrui-site-folder:before {
+    content: "\ea4e";
+}
+
+.tangrui-site-folder-l:before {
+    content: "\ea4f";
+}
+
+.tangrui-slider-l:before {
+    content: "\ea50";
+}
+
+.tangrui-square:before {
+    content: "\ea51";
+}
+
+.tangrui-square-l:before {
+    content: "\ea52";
+}
+
+.tangrui-square-o:before {
+    content: "\ea53";
+}
+
+.tangrui-star:before {
+    content: "\ea54";
+}
+
+.tangrui-star-l:before {
+    content: "\ea55";
+}
+
+.tangrui-steam:before {
+    content: "\ea56";
+}
+
+.tangrui-storage:before {
+    content: "\ea57";
+}
+
+.tangrui-storage-l:before {
+    content: "\ea58";
+}
+
+.tangrui-sun:before {
+    content: "\ea59";
+}
+
+.tangrui-sun-l:before {
+    content: "\ea5a";
+}
+
+.tangrui-sword:before {
+    content: "\ea5b";
+}
+
+.tangrui-sword-l:before {
+    content: "\ea5c";
+}
+
+.tangrui-tab:before {
+    content: "\ea5d";
+}
+
+.tangrui-tab-l:before {
+    content: "\ea5e";
+}
+
+.tangrui-tag:before {
+    content: "\ea5f";
+}
+
+.tangrui-tag-l:before {
+    content: "\ea60";
+}
+
+.tangrui-taiji:before {
+    content: "\ea61";
+}
+
+.tangrui-talk:before {
+    content: "\ea62";
+}
+
+.tangrui-talk-l:before {
+    content: "\ea63";
+}
+
+.tangrui-taobao:before {
+    content: "\ea64";
+}
+
+.tangrui-t-brian:before {
+    content: "\ea65";
+}
+
+.tangrui-telegram:before {
+    content: "\ea66";
+}
+
+.tangrui-text-l:before {
+    content: "\ea67";
+}
+
+.tangrui-thumbs-up:before {
+    content: "\ea68";
+}
+
+.tangrui-thumbs-up-l:before {
+    content: "\ea69";
+}
+
+.tangrui-ticket:before {
+    content: "\ea6a";
+}
+
+.tangrui-ticket-l:before {
+    content: "\ea6b";
+}
+
+.tangrui-time:before {
+    content: "\ea6c";
+}
+
+.tangrui-time-l:before {
+    content: "\ea6d";
+}
+
+.tangrui-tmall:before {
+    content: "\ea6e";
+}
+
+.tangrui-transmission-l:before {
+    content: "\ea6f";
+}
+
+.tangrui-transport:before {
+    content: "\ea70";
+}
+
+.tangrui-trash:before {
+    content: "\ea71";
+}
+
+.tangrui-trash-l:before {
+    content: "\ea72";
+}
+
+.tangrui-triangle:before {
+    content: "\ea73";
+}
+
+.tangrui-triangle-l:before {
+    content: "\ea74";
+}
+
+.tangrui-triangle-o:before {
+    content: "\ea75";
+}
+
+.tangrui-trophy:before {
+    content: "\ea76";
+}
+
+.tangrui-trophy-l:before {
+    content: "\ea77";
+}
+
+.tangrui-truck:before {
+    content: "\ea78";
+}
+
+.tangrui-truck-l:before {
+    content: "\ea79";
+}
+
+.tangrui-tv:before {
+    content: "\ea7a";
+}
+
+.tangrui-tv-l:before {
+    content: "\ea7b";
+}
+
+.tangrui-twitter:before {
+    content: "\ea7c";
+}
+
+.tangrui-upload-l:before {
+    content: "\ea7d";
+}
+
+.tangrui-usb:before {
+    content: "\ea7e";
+}
+
+.tangrui-usb-l:before {
+    content: "\ea7f";
+}
+
+.tangrui-user:before {
+    content: "\ea80";
+}
+
+.tangrui-user-l:before {
+    content: "\ea81";
+}
+
+.tangrui-v2ex:before {
+    content: "\ea82";
+}
+
+.tangrui-vector-design:before {
+    content: "\ea83";
+}
+
+.tangrui-video-camera:before {
+    content: "\ea84";
+}
+
+.tangrui-video-camera-l:before {
+    content: "\ea85";
+}
+
+.tangrui-video-file:before {
+    content: "\ea86";
+}
+
+.tangrui-video-file-l:before {
+    content: "\ea87";
+}
+
+.tangrui-vimeo:before {
+    content: "\ea88";
+}
+
+.tangrui-virtual:before {
+    content: "\ea89";
+}
+
+.tangrui-virtual-l:before {
+    content: "\ea8a";
+}
+
+.tangrui-volume:before {
+    content: "\ea8b";
+}
+
+.tangrui-volume-l:before {
+    content: "\ea8c";
+}
+
+.tangrui-volume-x-l:before {
+    content: "\ea8d";
+}
+
+.tangrui-wallet:before {
+    content: "\ea8e";
+}
+
+.tangrui-wallet-l:before {
+    content: "\ea8f";
+}
+
+.tangrui-warning:before {
+    content: "\ea90";
+}
+
+.tangrui-warning-l:before {
+    content: "\ea91";
+}
+
+.tangrui-watch:before {
+    content: "\ea92";
+}
+
+.tangrui-watch-l:before {
+    content: "\ea93";
+}
+
+.tangrui-webcam:before {
+    content: "\ea94";
+}
+
+.tangrui-webcam-l:before {
+    content: "\ea95";
+}
+
+.tangrui-web-edit:before {
+    content: "\ea96";
+}
+
+.tangrui-web-edit-l:before {
+    content: "\ea97";
+}
+
+.tangrui-weibo:before {
+    content: "\ea98";
+}
+
+.tangrui-weixin:before {
+    content: "\ea99";
+}
+
+.tangrui-weixinzhifu:before {
+    content: "\ea9a";
+}
+
+.tangrui-wifi:before {
+    content: "\ea9b";
+}
+
+.tangrui-wordpress:before {
+    content: "\ea9c";
+}
+
+.tangrui-wrench:before {
+    content: "\ea9d";
+}
+
+.tangrui-wrench-l:before {
+    content: "\ea9e";
+}
+
+.tangrui-write-l:before {
+    content: "\ea9f";
+}
+
+.tangrui-x-buy-l:before {
+    content: "\eaa0";
+}
+
+.tangrui-youtube:before {
+    content: "\eaa1";
+}
+
+.tangrui-zhihu:before {
+    content: "\eaa2";
+}
+
+.tangrui-zip-folder:before {
+    content: "\eaa3";
+}
+
+.tangrui-zip-folder-l:before {
+    content: "\eaa4";
+}
